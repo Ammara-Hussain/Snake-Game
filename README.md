@@ -4,7 +4,7 @@ A modern implementation of the classic Snake Game built using **HTML, CSS, and J
 This project demonstrates core game development concepts (collision detection, grid rendering, and event handling) while maintaining clean and responsive UI.
 
 ---
-## Live Demo: 
+## Live Demo:  https://ammara-hussain.github.io/Snake-Game/
 
 
 ## 🚀 Features
